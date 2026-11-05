@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='okploekafifmjgngneikcoooijahpmgo'>
-    <updatecheck codebase='https://vitorthedream.github.io/gravador-tds-dist/gravador-tds.crx' version='1.0.1' />
+    <updatecheck codebase='https://vitorthedream.github.io/gravador-tds-dist/gravador-tds.crx' version='1.0.2' />
   </app>
 </gupdate>
